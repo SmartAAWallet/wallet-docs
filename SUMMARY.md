@@ -1,8 +1,8 @@
-* [Introduction](docs/FIntroduction.md)
-    * [What is AA Wallet?](docs%2FWhat%20is%20AA%20Wallet%3F.md)
-* [Getting started](docs/FGetting%20started.md)
-    * [Develop your apps](docs%2FDevelop%20your%20apps.md)
-    * [Onboarding](docs%2FOnborading.md)
-* [Architecture](docs/FArchitecture.md)
-    * [Layers](docs%2FLayers.md)
-    * [ERC4337](docs%2FERC4337.md)
+* Introduction
+    * [What is AA Wallet?](docs/What%20is%20AA%20Wallet%3F.md)
+* Getting started
+    * [Develop your apps](docs/Develop%20your%20apps.md)
+    * [Onboarding](docs/Onborading.md)
+* Architecture
+    * [Layers](docs/Layers.md)
+    * [ERC4337](docs/ERC4337.md)
