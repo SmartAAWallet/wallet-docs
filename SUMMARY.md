@@ -1,8 +1,8 @@
 * Introduction
-    * [What is AA Wallet?](docs/What%20is%20AA%20Wallet%3F.md)
+    * [What is AA Wallet?](docs/What%20is%20AA%20Wallet.md)
 * Getting started
-    * [Develop your apps](docs/Develop%20your%20apps.md)
     * [Onboarding](docs/Onborading.md)
+    * [Develop your apps](docs/Develop%20your%20apps.md)
 * Architecture
     * [Layers](docs/Layers.md)
-    * [ERC4337](docs/ERC4337.md)
+    * [ERC4337](https://eips.ethereum.org/EIPS/eip-4337)
