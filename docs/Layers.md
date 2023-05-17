@@ -1,17 +1,17 @@
-## 1. Third-party account applications layer (ASP) (Off-chain):
+## Third-party account applications layer (ASP) (Off-chain):
 
 - Third-party account service providers upload their smart contract account applications implemented in user account contracts (store the source code somewhere and provide the address of source code)
 - Third-party account service providers can also upload the corresponding off-chain user client for their account applications for users to download (optional)
 - Users can choose and get third-party account applications and install them in their account contract
 - Different applications have command standards for utilizing user data under authoriztion
 
-## 2. Account abstraction layer (AA)(SUTC) (ERC-4337)
+## Account abstraction layer (AA)(SUTC) (ERC-4337)
 
 - UserOperation Pool
 - Bundler
 - EntryPoint
 
-## 3. User Account Contract Layer(AC):
+## User Account Contract Layer(AC):
 
 - AccountContract: user account contract
 - The smart contract of third-party account applications users choose will be installed and run here like:
