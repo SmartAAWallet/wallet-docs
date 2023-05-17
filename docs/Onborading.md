@@ -12,13 +12,11 @@ New users can choose an account register/login application to create a new accou
 2. The user name and password are encrypted on the user's local side and then sent to the app. So the application can only know the encrypted one.
 3. The application generates a login verification contract corresponding to the user name and login password. The contract is stored in the user account contract.
    After the registration above is complete and the user AA account is generated, when the user logs in from the login apps that support username and password login:
-- The user inputs his encrypted user name and login password into the application to login
+   - The user inputs his encrypted user name and login password into the application to login
+   - The application sends the encrypted username and password to the corresponding login verification contract of the application in the user's AA account contract
+   - The contract decrypts and verifies the user name and login password. If the verification is successful, the contract will allow the user to log in, and the user can log in to his/her AA account successfully
 
-- The application sends the encrypted username and password to the corresponding login verification contract of the application in the user's AA account contract
-
-- The contract decrypts and verifies the user name and login password. If the verification is successful, the contract will allow the user to log in, and the user can log in to his/her AA account successfully
-
-    If any username and password login application can not be used, other account login applications that support username and password login can also read the user's encrypted username and password after getting authorization from the user. So they can still provide the user with the username and password login verification service, and the user can still freely choose other username and password login applications to log in successfully
+If any username and password login application can not be used, other account login applications that support username and password login can also read the user's encrypted username and password after getting authorization from the user. So they can still provide the user with the username and password login verification service, and the user can still freely choose other username and password login applications to log in successfully
 
 ## 3. Transfer ETH from transfer application in the account contract
 
