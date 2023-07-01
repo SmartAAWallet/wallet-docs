@@ -1,5 +1,3 @@
-# Threshold Signature Technology Design Document
-
 # 1. Introduction
 
 The purpose of this document is to outline the design and implementation details of a Threshold Signature technology using ECDSA (Elliptic Curve Digital Signature Algorithm). The system consists of a web client and a server, each with specific roles and responsibilities. This document will provide an overview of the system architecture, key components, and their interactions.
@@ -34,7 +32,7 @@ The key generation process involves the following steps:
 
 ## 3.2 Server
 
-- Nothing to do when generating key(it should)
+- Nothing to do when generating key(it must be so)
 
 # 4. Threshold Signature Generation
 The threshold signature generation process involves the following steps:
