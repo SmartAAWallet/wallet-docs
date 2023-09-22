@@ -8,7 +8,8 @@
     * [ERC4337](https://eips.ethereum.org/EIPS/eip-4337)
 * Application
     * ASP
-        * [Local Login](docs/application/asp/local_login.md)
+        * [Local login](docs/application/asp/local_login.md)
         * [MPC(Secure Multi-Party Computation)](docs/application/asp/threshold_signature.md)
     * ACL
         * [Automated trading](docs/application/acl/auto_trading.md)
+        * [Demand abstraction](docs/application/acl/demand_abstraction.md)
