@@ -1,10 +1,14 @@
 * Introduction
-    * [What is Smarter Wallet?](docs/what_is_smarter_wallet.md)
+    * [What is Smarter Wallet?](docs/introduction/what_is_smarter_wallet.md)
 * Getting started
-    * [Onboarding](docs/onborading.md)
-    * [Develop your apps](docs/develop_your_apps.md)
+    * [Onboarding](docs/introduction/onborading.md)
+    * [Develop your apps](docs/introduction/develop_your_apps.md)
 * Architecture
-    * [Layers](docs/layers.md)
+    * [Layers](docs/introduction/layers.md)
     * [ERC4337](https://eips.ethereum.org/EIPS/eip-4337)
 * Application
-    * [Threshold Signature](docs/threshold_signature.md)
+    * ASP
+        * [Local Login](docs/application/asp/local_login.md)
+        * [MPC(Secure Multi-Party Computation)](docs/application/asp/threshold_signature.md)
+    * ACL
+        * [Automated trading](docs/application/acl/auto_trading.md)
