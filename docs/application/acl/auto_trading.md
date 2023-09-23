@@ -22,6 +22,6 @@ Our product understands the importance of security for a trading platform, there
 
 ## 5. Technical Architecture
 
-![](../images/autotrading.png)
+![](../../../images/autotrading.png)
 
 We look forward to your use and feedback as we continue to improve and optimize our product to provide better service.

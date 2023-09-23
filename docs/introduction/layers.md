@@ -21,6 +21,6 @@
 - The local smart contract of third-party account applications on the user account contract side can connect to the smart contract account of applications and off-chain account applications (optional)
 - User data and assets will be stored in their account contract universal and applicable for all other applications to read and use under authorization
 
-![](../images/layer.png)
+![](../../images/layer.png)
 
 For example, after a user chooses and installs an account login application like 2FA, he can first open the 2FA login app on his phone and finish the verification requirements he previously set. Then the login application will transmit the login request authorized by the user to the account abstraction on chain, and then send it to the corresponding account contract of the user. The account contract will find the corresponding on-chain user login data and send the data to the 2FA login smart contract account application stored in user account contract. The application will verify the login request and allow the user to login.  
