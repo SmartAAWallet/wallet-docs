@@ -5,7 +5,7 @@
 - Users can choose and get third-party account applications and install them in their account contract
 - Different applications have command standards for utilizing user data under authoriztion
 
-# Account abstraction layer(STC)
+# Account abstraction layer(STC, On-chain)
 
 - UserOperation Pool
 - Bundler
