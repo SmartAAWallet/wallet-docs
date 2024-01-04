@@ -1,12 +1,12 @@
 In order to realize the requirement abstraction, we propose a policy processing model called **SmarterGPT** model.
-# What is SmarterGPT?
+# 1. What is SmarterGPT?
 
 - Supports access to open source, closed source, finetune and other large models
 - Based on Code Interpreter + FunctionCall capability, it can provide the clearest interpretation and the most accurate execution of user requirements.
 - Adaptation of SmarterWallet's integrated Swap, Trade, Post and other strategies, connecting Web2 and Web3, and lowering the threshold of Web3 for users.
 - AI distributed execution framework for efficient task execution and powerful extensibility.
 
-# Technical Framework
+# 2. Technical Framework
 
 ![](../../../images/demand.png)
 
