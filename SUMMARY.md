@@ -13,3 +13,4 @@
     * ACL
         * [Automated trading](docs/application/acl/auto-trading.md)
         * [Demand abstraction](docs/application/acl/demand-abstraction.md)
+        * [Strategy recommend](docs/application/acl/strategy-recommend.md)
